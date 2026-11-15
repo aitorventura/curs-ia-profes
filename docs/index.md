@@ -35,7 +35,7 @@ Els materials de cada sessió es publiquen el mateix dia. Les sessions que encar
 
 - 🖥️ **Les diapositives** de la sessió, per a repassar-les o consultar-les després.
 - ✍️ **Una pràctica proposada** (unes 2 hores) per a fer amb una tasca real teua. No cal entregar-la.
-- ✅ **Una proposta de solució** de la pràctica, per a comparar el teu resultat. Es publica uns dies després de la sessió.
+- ✅ **Una proposta de solució** de la pràctica, per a comparar el teu resultat.
 - 📘 **Guies d'ús** de les ferramentes noves, pas a pas: les tens totes a **[Guies d'ús](guies.md)**.
 
 !!! warning "Privadesa"

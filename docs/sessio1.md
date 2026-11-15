@@ -49,8 +49,10 @@ Unes **2 hores**, amb una tasca **real** teua. No cal entregar-la.
 !!! info "Descàrrega"
     [Descarrega la pràctica (PDF)](pdf/S1_Practica.pdf){target="_blank" rel="noopener"}
 
-!!! note "Proposta de solució"
-    La proposta de solució, amb resultats d'exemple per a comparar el teu, es publicarà ací uns dies després de la sessió.
+!!! success "Proposta de solució"
+    Resultats d'exemple de dues matèries (Biologia i Geologia de 1r d'ESO i Llengua de 3r de Primària), amb els prompts, les iteracions i què es va revisar, per a comparar-los amb el teu.
+
+    [Descarrega la proposta de solució (PDF)](pdf/S1_Solucio_practica.pdf){target="_blank" rel="noopener"}
 
 ---
 
