@@ -21,3 +21,5 @@
 .md-footer-meta__inner a:hover { color: #E0A030 !important; }
 /* taules a tot l'ample */
 .md-typeset table:not([class]) { display: table; width: 100%; }
+.md-typeset__scrollwrap, .md-typeset__table { display: block; width: 100%; }
+.md-typeset__table table:not([class]) { display: table; width: 100%; }
