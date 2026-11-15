@@ -1,0 +1,74 @@
+# ── Desbloqueig progressiu de sessions ──────────────────────────────────────
+# Per a publicar una sessió nova quan arribe el seu dia:
+#   1. Copia els seus PDF a docs/pdf/ (des del repositori de materials).
+#   2. Lleva la seua línia de "exclude_docs" (davall).
+#   3. Descomenta el seu bloc en "nav" (lleva el "# " de cada línia).
+#   4. A docs/index.md, canvia la seua fila de 🔒 a enllaç.
+#   5. git add, commit i push: la web es publica sola (GitHub Actions).
+# Les pàgines llistades en exclude_docs NO es generen (ni per URL directa).
+exclude_docs: |
+  sessio2.md
+  sessio3.md
+  sessio4.md
+  sessio5.md
+  sessio6.md
+
+site_name: IA aplicada a l'educació
+site_description: Materials del curs de formació del professorat «Intel·ligència artificial aplicada a l'educació»
+site_author: Aitor Ventura
+
+theme:
+  name: material
+  language: ca
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: custom
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Mode fosc
+    - scheme: slate
+      primary: custom
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Mode clar
+  icon:
+    logo: material/robot-happy-outline
+  features:
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - navigation.indexes
+    - content.code.copy
+
+nav:
+  - Inici: index.md
+  - Abans de començar: abans.md
+  - Sessió 1 · De zero al teu primer material: sessio1.md
+  # - Sessió 2 · Prompting i creació de materials: sessio2.md
+  # - Sessió 3 · Contingut visual: sessio3.md
+  # - Sessió 4 · IA amb els teus apunts: sessio4.md
+  # - Sessió 5 · Avaluació: sessio5.md
+  # - Sessió 6 · Correcció i ús responsable: sessio6.md
+  - Guies d'ús de les ferramentes: guies.md
+
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - css/extra.css
+
+plugins:
+  - search
+  - mkdocs-pdf

@@ -1,0 +1,23 @@
+/* Colors del curs: blau marí, verd blavós i ambre (els mateixos de les diapositives) */
+:root, [data-md-color-scheme="default"] {
+  --md-primary-fg-color: #1F3A5F;
+  --md-primary-fg-color--light: #2E5480;
+  --md-primary-fg-color--dark: #142740;
+  --md-accent-fg-color: #E0A030;
+  --md-typeset-a-color: #0F8B8D;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1F3A5F;
+  --md-primary-fg-color--light: #2E5480;
+  --md-primary-fg-color--dark: #142740;
+  --md-accent-fg-color: #E0A030;
+  --md-typeset-a-color: #4FC3C5;
+}
+.md-footer { background-color: #1F3A5F !important; }
+.md-footer, .md-footer__link, .md-footer__direction { color: #ffffff !important; }
+.md-footer-meta { background-color: #142740 !important; }
+.md-footer-meta__inner { max-width: 100% !important; padding: .5rem 1rem; text-align: center; font-size: .7rem; color: #fff !important; }
+.md-footer-meta__inner a { color: #fff !important; text-decoration: underline; }
+.md-footer-meta__inner a:hover { color: #E0A030 !important; }
+/* taules a tot l'ample */
+.md-typeset table:not([class]) { display: table; width: 100%; }
