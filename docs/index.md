@@ -20,7 +20,7 @@ Els materials de cada sessió es publiquen el mateix dia. Les sessions que encar
 | Sessió | Data | Què hi faràs |
 |---|---|---|
 | 🚀 [Sessió 1 — De zero al teu primer material](sessio1.md) | Dimecres 18 de novembre | Què és la IA generativa, límits i privadesa, el teu primer material pas a pas i 10 usos per a demà |
-| 🔒 Sessió 2 — Prompting i creació de materials *(dijous 19 de novembre)* | Dijous 19 de novembre | La fórmula del bon prompt, situacions d'aprenentatge, debats, escape rooms, DUA i assistents propis |
+| ✍️ [Sessió 2 — Prompting i creació de materials](sessio2.md) | Dijous 19 de novembre | La fórmula del bon prompt, situacions d'aprenentatge, debats, escape rooms, DUA i assistents propis |
 | 🔒 Sessió 3 — Contingut visual *(pròximament)* | Dimecres 2 de desembre | Imatges, esquemes amb Napkin, presentacions amb Gamma i Canva, i materials encadenats |
 | 🔒 Sessió 4 — IA amb els teus apunts *(pròximament)* | Dimecres 9 de desembre | NotebookLM: un tema en set formats, FAQ per a famílies i PartyRock |
 | 🔒 Sessió 5 — Avaluació *(pròximament)* | Dijous 10 de desembre | Preguntes per nivells, exàmens en versions, rúbriques i qüestionaris per a Kahoot, Blooket i Moodle |

@@ -7,7 +7,6 @@
 #   5. git add, commit i push: la web es publica sola (GitHub Actions).
 # Les pàgines llistades en exclude_docs NO es generen (ni per URL directa).
 exclude_docs: |
-  sessio2.md
   sessio3.md
   sessio4.md
   sessio5.md
@@ -47,7 +46,7 @@ nav:
   - Inici: index.md
   - Abans de començar: abans.md
   - Sessió 1 · De zero al teu primer material: sessio1.md
-  # - Sessió 2 · Prompting i creació de materials: sessio2.md
+  - Sessió 2 · Prompting i creació de materials: sessio2.md
   # - Sessió 3 · Contingut visual: sessio3.md
   # - Sessió 4 · IA amb els teus apunts: sessio4.md
   # - Sessió 5 · Avaluació: sessio5.md
