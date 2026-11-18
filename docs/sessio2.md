@@ -61,7 +61,7 @@ Unes **2 hores**, amb una unitat **real** teua. No cal entregar-la.
 
 ## 📘 Guies d'ús d'esta sessió
 
-Usarem les mateixes ferramentes de la sessió 1. Les guies expliquen també com crear un **Gem**, un **GPT** o un **Projecte**:
+No hi ha ferramentes noves: les guies de la sessió 1 ja inclouen els **Gems**, els **GPTs** i els **Projectes**.
 
 - [Guia de ChatGPT (PDF)](pdf/Guia_ChatGPT.pdf){target="_blank" rel="noopener"}
 - [Guia de Gemini (PDF)](pdf/Guia_Gemini.pdf){target="_blank" rel="noopener"}
