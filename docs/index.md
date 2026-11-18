@@ -37,6 +37,7 @@ Els materials de cada sessió es publiquen el mateix dia. Les sessions que encar
 - ✍️ **Una pràctica proposada** (unes 2 hores) per a fer amb una tasca real teua. No cal entregar-la.
 - ✅ **Una proposta de solució** de la pràctica, per a comparar el teu resultat.
 - 📘 **Guies d'ús** de les ferramentes noves, pas a pas: les tens totes a **[Guies d'ús](guies.md)**.
+- 💬 **La recopilació de prompts**, llestos per a copiar i apegar: [descarrega-la (PDF)](pdf/Recull_de_prompts.pdf){target="_blank" rel="noopener"}. S'amplia amb cada sessió.
 
 !!! warning "Privadesa"
     En cap ferramenta d'IA hi poses **dades personals de l'alumnat**: ni noms, ni notes, ni informes. Treballa sempre amb casos anònims («un alumne de 2n d'ESO amb dislèxia»).

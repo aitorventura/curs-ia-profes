@@ -13,5 +13,8 @@ Cada guia explica una ferramenta pas a pas: com crear el compte, què pots fer a
      S3: Generadors d'imatge, Napkin, Gamma, Canva · S4: NotebookLM, PartyRock ·
      S5: Kahoot, Blooket, Google Forms i Moodle (GIFT) -->
 
+!!! info "Recopilació de prompts"
+    Tots els prompts de les sessions, llestos per a copiar i apegar: [descarrega la recopilació (PDF)](pdf/Recull_de_prompts.pdf){target="_blank" rel="noopener"}. S'amplia amb cada sessió.
+
 !!! tip "Quina has d'usar?"
     Totes fan un poc de tot i el resultat depén més del **prompt** que de la ferramenta. Si se t'acaba el límit gratuït d'una, continua amb una altra.
